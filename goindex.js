@@ -18,7 +18,7 @@ var html = `
   <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
   <title>${authConfig.siteName}</title>
   <script src="//lib.baomitu.com/jquery/3.4.1/jquery.min.js"></script>
-  <script src="//cdn.jsdelivr.net/combine/gh/Hidove/goindex/app.js"></script>
+  <script src="//cdn.jsdelivr.net/combine/gh/NUSC/goindex/app.js"></script>
 </head>
 <body>
 </body>
